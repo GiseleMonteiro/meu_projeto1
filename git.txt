@@ -3,3 +3,5 @@ comando 2
 comando 3
 comando 4
 comando 5
+
+Linha escrita em repositório local
